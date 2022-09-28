@@ -4,5 +4,13 @@ bye
 sdgfgdfdf
 gskagfefyjildfjh
 salipa gurung
+<<<<<<< HEAD
 THIS IS FROM BRANCH A
 THIS IS FROM BRANCH B
+=======
+<<<<<<< HEAD
+THIS IS FROM BRANCH A
+=======
+THIS IS FROM BRANCH B
+>>>>>>> 28b88b9 (added text from branchB)
+>>>>>>> 495a0cb (added text from branchB)
