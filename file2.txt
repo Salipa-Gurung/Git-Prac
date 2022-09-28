@@ -1,2 +1,5 @@
 file 2
-my name is
+My name is Salipa Gurung.
+Hello
+hi
+new line 
