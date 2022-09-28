@@ -1,0 +1,5 @@
+file 2
+My name is Salipa Gurung.
+Hello
+hi
+new line 
